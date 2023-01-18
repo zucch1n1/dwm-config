@@ -6,7 +6,7 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Roboto Mono:style=Regular:size=10", "Gen Jyuu Gothic Monospace:style=Regular:size=10" };
+static const char *fonts[]          = { "Roboto Mono:style=Regular:size=10", "Gen Jyuu Gothic Monospace:style=Regular:size=10", "Font Awesome 6 Free" };
 static const char dmenufont[]       = "Roboto Mono:style=Regular:size=10";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
